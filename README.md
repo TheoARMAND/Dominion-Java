@@ -1,5 +1,8 @@
 # Dominion-Java
 
+
+this project is a collaboration with Sullivan Armangau 
+
 this dominion game is the adaptation of the board game of the same name in Java.
 to play this game you only need to launch the main that will launch the game in the console.
 if you want to change the setting you can do it inside the code. 
